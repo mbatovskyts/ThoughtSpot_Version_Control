@@ -1,11 +1,3 @@
-# ThoughtSpot Version Control
+# Prod Branch
 
-This project is aimed at managing and controlling versions within ThoughtSpot, a business intelligence tool that enables data analysis without the need for technical expertise. 
-
-## Overview
-- **Repository:** ThoughtSpot_Version_Control
-- **Owner:** mbatovskyts
-- **Created on:** 2026-02-12
-
-## Basic Information
-This repository will hold version control practices, scripts, and relevant documentation to ensure efficient version management of ThoughtSpot resources.
+This branch was created on 2026-02-13 by mbatovskyts. It is the production branch containing the live code deployed to production environments. Only stable, tested releases should be merged to this branch.
