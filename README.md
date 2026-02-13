@@ -1,3 +1,3 @@
-# Prod Branch
+# Production Branch
 
-This branch was created on 2026-02-13 by mbatovskyts. It is the production branch containing the live code deployed to production environments. Only stable, tested releases should be merged to this branch.
+This is the prod branch, created on 2026-02-13 by mbatovskyts. It contains stable and tested code ready for deployment.
